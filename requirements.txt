@@ -1,6 +1,7 @@
 pandas
 numpy
-streamlit
+streamlit==1.19.0
 plotly
 openpyxl
 xlsxwriter
+altair==4.2.0
